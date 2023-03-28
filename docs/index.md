@@ -2,7 +2,6 @@
 layout: cv
 title: Sarah Dombroski's Resume
 ---
-# Sarah Dombroski
 
 <div id="webaddress">
 <a href="dom22003@byui.edu">dom22003@byui.edu</a>
