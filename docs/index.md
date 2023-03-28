@@ -3,87 +3,69 @@ layout: cv
 title: Sarah Dombroski's Resume
 ---
 # Sarah Dombroski
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="dom22003@byui.edu">dom22003@byui.edu</a>
+| <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Data Science Program</a>
+| <a href="www.linkedin.com/in/sarah-dombroski-06a125265">LinkedIn</a>
+| <a href="https://github.com/sarahdombroski640">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2022-2027`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.95 Major GPA
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`April 2027 - September 2027`
+__Hewlett Packered__, Boise, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Used python and C# to develop programs.
+- Worked on a team to complete daily tasks.
+- Learned how to work in a technological environment.
 
-### Data Science Lead
+### Societies
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`January 2023 - December 2027`
+__Society of Women's Engineers__
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Learned how to support other engineers in their fields.
+- Attended meetings and learned more about the engineering fields.
+- Attended various technological conferences.
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2018-2022`
+__Piano Teacher__, Middleton, Idaho
+
+- Learned how to teach children the art of music.
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2020-2022`
+__Frosty Palace__, Homedale, Idaho
 
+- Learned time management and teamwork.
+- Worked as the head of a group to help keep things running.
+
+
+`September 2025 - December 2027`
+__BYUI IT Desk__, Rexburg, ID
+
+- Worked with a team on the campus IT desk.
+- Resolved various issues with computers.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2023 -->
 
 
