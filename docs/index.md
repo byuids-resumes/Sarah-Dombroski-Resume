@@ -17,6 +17,7 @@ title: Sarah Dombroski's Resume
 `2022-2027`
 __Brigham Young University - Idaho__, Rexburg, ID
 
+- Bachelor in Computer Science
 - 3.95 Major GPA
 
 
