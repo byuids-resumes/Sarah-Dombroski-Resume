@@ -26,7 +26,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Internships
 
 `April 2027 - September 2027`
-__Hewlett Packered__, Boise, ID
+__Hewlett Packard__, Boise, ID
 
 - Used python and C# to develop programs.
 - Worked on a team to complete daily tasks.
