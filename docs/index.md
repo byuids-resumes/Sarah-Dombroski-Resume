@@ -6,7 +6,6 @@ title: Sarah Dombroski's Resume
 <div id="webaddress">
 <a href="dom22003@byui.edu">dom22003@byui.edu</a>
 | <a href="">(208)899-6672</a>
-| <a href="www.linkedin.com/in/sarah-dombroski-06a125265">LinkedIn</a>
 | <a href="https://github.com/sarahdombroski640">GitHub</a>
 </div>
 
